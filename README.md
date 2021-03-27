@@ -19,9 +19,13 @@ Bill Gates, 65, Student
 Find definitions for the following concepts. Translate each definition into your own words.
 
 * CSV
+    * Comma separated values. A file for storing data with rows, and columns separated by commas
 * Header
+    * An array of values that acts as a header for each csv column
 * Record
+    * A CSV row
 * Delimiter
+    * A way of separating values, e.g. a comma or tab
 
 ## Part 2: Read
 
